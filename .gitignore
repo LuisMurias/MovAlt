@@ -1,0 +1,17 @@
+# Bootstrap
+Symfony/app/bootstrap*
+
+# Symfony directories
+Symfony/vendor/*
+*/logs/*
+*/cache/*
+public_html/uploads/*
+public_html/bundles/*
+
+# Configuration files
+Symfony/app/config/parameters.ini
+
+#Temp files
+.DS_Store
+*~
+*.swp
